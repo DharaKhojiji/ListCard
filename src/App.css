@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.Navigation {
+  /* position: absolute; */
+  bottom: 0;
+  /* display: block; */
+  background-color: #0055b3 !important;
+
+  position: fixed;
+  /* bottom: 0;
+   left: 0;
+   right: 0; */
+  /* height: 50px; */
+  width: 100%;
+  /* border-top: 1px solid white; */
+  /* display: flex; */
+  /* justify-content: center; */
+  /* background: #282c34; */
+}
+.header {
+  background-color: #0055b3 !important;
+}
